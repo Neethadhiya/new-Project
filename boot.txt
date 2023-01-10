@@ -1,0 +1,39 @@
+1..Bootstrap also gives you the ability to easily create responsive designs..Responsive web design is about creating web sites which automatically adjust themselves to look good on all devices, from small phones to large desktops.
+The .container class provides a responsive fixed width container
+The .container-fluid class provides a full width container, spanning the entire width of the viewport
+
+2..Bootstrap 4 Grid System
+Bootstrap's grid system is built with flexbox and allows up to 12 columns across the page.
+
+If you do not want to use all 12 columns individually, you can group the columns together to create wider columns:
+
+3.Bootstrap 4 Jumbotron
+A jumbotron indicates a big grey box for calling extra attention to some special content or information.
+
+4  Badges are used to add additional information to any content. Use the .badge class together with a contextual class (like .badge-secondary) within <span> elements to create rectangular badges. Note that badges scale to match the size of the parent element (if any):
+
+5..A progress bar can be used to show a user how far along he/she is in a process.
+
+6.Cards
+A card in Bootstrap 4 is a bordered box with some padding around its content. It includes options for headers, footers, content, colors, etc.
+
+7..Basic Collapsible
+Collapsibles are useful when you want to hide and show large amount of content:
+
+8..Navigation Bars
+A navigation bar is a navigation header that is placed at the top of the page:
+9..Bootstrap 4 Carousel
+The Carousel is a slideshow for cycling through elements.
+10..Bootstrap 4 Modal
+The Modal component is a dialog box/popup window that is displayed on top of the current page:
+11.Bootstrap 4 Tooltip
+The Tooltip component is small pop-up box that appears when the user moves the mouse pointer over an element:
+12.Bootstrap 4 Popover
+The Popover component is similar to tooltips; it is a pop-up box that appears when the user clicks on an element. The difference is that the popover can contain much more content.
+13..ootstrap 4 Toast
+The toast component is like an alert box that is only shown for a couple of seconds when something happens (i.e. when the user clicks on a button, submits a form, etc.).
+
+14..Bootstrap 4 Scrollspy
+Scrollspy is used to automatically update links in a navigation list based on scroll position.
+
+15..
